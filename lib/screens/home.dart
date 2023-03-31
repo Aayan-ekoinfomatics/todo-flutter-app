@@ -198,7 +198,7 @@ class MyHomePageState extends State<MyHomePage> {
             ],
           ),
         ),
-        for (ToDo todo in foundToDo)
+        for (ToDo todo in foundToDo.reversed)
           ToDoItem(
             todo: todo,
             onToDoChanged: handleToDoChange,
