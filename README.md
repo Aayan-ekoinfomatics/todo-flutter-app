@@ -1,6 +1,6 @@
 # todo_test_app
 
-A new Flutter project.
+A simple Flutter To Do management app.
 
 ## Getting Started
 
